@@ -11,14 +11,14 @@ $(document).ready(function() {
       subtitle: "Check out our schedule!",
       img: img1,
       // btnText: "View Schedule",
-      btnUrl: "schedule.html"
+      // btnUrl: "schedule.html"
     },
     {
       title: "Our food is seriously the bomb!",
       subtitle: "What are you waiting for?",
       img: img2,
       // btnText: "Purchase Tickets",
-      btnUrl: "tickets.html"
+      // btnUrl: "tickets.html"
     },
   ]
 
