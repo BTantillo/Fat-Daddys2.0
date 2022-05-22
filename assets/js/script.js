@@ -10,15 +10,15 @@ $(document).ready(function() {
       title: "We travel all over the US",
       subtitle: "Check out our schedule!",
       img: img1,
-      // btnText: "View Schedule",
-      // btnUrl: "schedule.html"
+      btnText: "View Schedule",
+      btnUrl: "schedule.html"
     },
     {
       title: "Our food is seriously the bomb!",
       subtitle: "What are you waiting for?",
       img: img2,
-      // btnText: "Purchase Tickets",
-      // btnUrl: "tickets.html"
+      btnText: "Purchase Tickets",
+      btnUrl: "tickets.html"
     },
   ]
 
@@ -34,8 +34,8 @@ $(document).ready(function() {
             <h3>${slide.subtitle}</h3>
           </div>
           <div class=" mt-4 row align-items-center justify-content-center"> 
-            <a class="btn btn-primary" href="">
-                
+            <a class="btn btn-primary" href="${slide.btnUrl}">
+                ${slide.btnText}
             </a>
           </div>
         </div>
