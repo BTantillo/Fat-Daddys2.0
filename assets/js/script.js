@@ -10,7 +10,7 @@ $(document).ready(function() {
       title: "We travel all over the US",
       subtitle: "Check out our schedule!",
       img: img1,
-      btnText: "View Schedule",
+      btnText: "Hours of Operation",
       btnUrl: "schedule.html"
     },
     {
