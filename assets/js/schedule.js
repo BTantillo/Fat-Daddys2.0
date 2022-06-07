@@ -30,33 +30,31 @@ if (window.location.href.indexOf("schedule") > -1) {
     {
         title: 'Taco Tuesday',
         start: new Date(y, m+1, 20),
-        description: `Vegans unite! At this event, we'll be celebrating with vegan food from around the globe. With so many delicious vegan cuisine options, it's hard to pick one. What are you hungry for? Let us share with you!
-        Veganism is a lifestyle choice—we're passionate about creating healthy and delicious food products without harming the environment, so please spread the word about our festival and about our work!`,
+        description: `Taco Tuesday Info Goes Here! More Taco Tuesday Info here!`,
         image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
     },
     {
         title: 'Nashville Night Out',
         start: new Date(y, m+1, 20),
+        description: 'Nashville Night Out info here! Nashville Night Out info here'
         image: "https://images.unsplash.com/photo-1474440692490-2e83ae13ba29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
     },
     {
         title: 'Happy Hour',
         start: new Date(y, m+1, 20),
-        description: `Today's all about bacon! We'll be serving up the best tasting bacon around town! Let's all get excited about bacon together!
-        As an appetizer, grab a side of our delicious BBQ pulled pork and pick up a delicious side of our homemade slaw and sauce! There will be bacon everywhere!!`,
+        description: `Happy Hour Info here! Happy Hour Info here!`,
         image: "https://images.unsplash.com/photo-1528607929212-2636ec44253e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80",
     
     },
     {
         title: 'WVU Football',
-        description: `You bring it, we fry it. Everything tastes better fried! Whether it's your favorite sponge cake or a refreshing afternoon snack,
-        prepare to shock your tastebuds.`,
+        description: `Game Day Info`,
         start: new Date(y, m+1, 21),
         image: "https://images.unsplash.com/photo-1534797258760-1bd2cc95a5bd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80",
     },
     {
         title: 'WVU Basketball',
-        description: `This event is devoted to all those pizza lovers out there. Come enjoy fresh from the oven pizza and learn tips on making pizza at home from the pros!`,
+        description: `Game Day Info`,
         start: new Date(y, m+1, 22),
         image: "https://images.unsplash.com/photo-1534797258760-1bd2cc95a5bd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80",
     },
@@ -68,19 +66,19 @@ if (window.location.href.indexOf("schedule") > -1) {
     },
     {
         title: `Saint Patrick's Day`,
-        description: `We will be showcasing dishes where fruits are a primary ingredient. Come learn how you can add more fruits into your diet!`,
+        description: `St Paddys Day Info`,
         start: new Date(y, m+1, 22),
         image: "https://images.unsplash.com/photo-1534797258760-1bd2cc95a5bd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80",
     },
     {
         title: 'Halloween',
-        description: `We will be showcasing great dishes that have plenty of veggies and proteins! This is for all those out there who love food, but want to get more vegetables in their diets!`,
+        description: `Halloween Info`,
         start: new Date(y, m+1, 23),
         image: "https://images.unsplash.com/photo-1534797258760-1bd2cc95a5bd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80",
     },
     {
         title: 'Cinco de Mayo',
-        description: `You bring it, we fry it....again. This event is always a huge hit, so we hold it twice!!`,
+        description: `Game Day Info`,
         start: new Date(y, m+1, 23),
         image: "https://images.unsplash.com/photo-1534797258760-1bd2cc95a5bd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80",
     },
