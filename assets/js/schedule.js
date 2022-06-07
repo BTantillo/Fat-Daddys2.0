@@ -35,7 +35,7 @@ if (window.location.href.indexOf("schedule") > -1) {
         image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
     },
     {
-        title: 'Country Thursdays',
+        title: 'Nashville Night Out',
         start: new Date(y, m+1, 20),
         image: "https://images.unsplash.com/photo-1474440692490-2e83ae13ba29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
     },

@@ -35,7 +35,7 @@ eval("__webpack_require__(/*! bootstrap */ \"./node_modules/bootstrap/dist/js/bo
   \******************************/
 /***/ ((module) => {
 
-eval("function createLoremIpsum(numWords = 50) {\n    const loremIpsum = \"Country Thursdays.\"\n    \n    const result = loremIpsum.split(/\\s+/).slice(0,numWords).join(\" \");\n    return result;\n  };\n\n  dateConverter = function(UNIX_timestamp) {\n    const a = new Date(UNIX_timestamp);\n    const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];\n    const year = a.getFullYear();\n    const month = months[a.getMonth()];\n    const date = a.getDate();\n    const result =  month + ' ' + date + ', ' + year \n    return result;\n  };\n\n  module.exports = {\n      dateConverter,\n      createLoremIpsum\n  }\n\n//# sourceURL=webpack://food-festival/./assets/js/helpers.js?");
+eval("function createLoremIpsum(numWords = 50) {\n    const loremIpsum = \"Nashville Night Out.\"\n    \n    const result = loremIpsum.split(/\\s+/).slice(0,numWords).join(\" \");\n    return result;\n  };\n\n  dateConverter = function(UNIX_timestamp) {\n    const a = new Date(UNIX_timestamp);\n    const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];\n    const year = a.getFullYear();\n    const month = months[a.getMonth()];\n    const date = a.getDate();\n    const result =  month + ' ' + date + ', ' + year \n    return result;\n  };\n\n  module.exports = {\n      dateConverter,\n      createLoremIpsum\n  }\n\n//# sourceURL=webpack://food-festival/./assets/js/helpers.js?");
 
 /***/ }),
 

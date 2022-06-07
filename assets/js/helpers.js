@@ -1,5 +1,5 @@
 function createLoremIpsum(numWords = 50) {
-    const loremIpsum = "Country Thursdays."
+    const loremIpsum = "Nashville Night Out."
     
     const result = loremIpsum.split(/\s+/).slice(0,numWords).join(" ");
     return result;
