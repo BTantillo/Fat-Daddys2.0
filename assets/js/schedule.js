@@ -36,7 +36,7 @@ if (window.location.href.indexOf("schedule") > -1) {
     {
         title: 'Nashville Night Out',
         start: new Date(y, m+1, 20),
-        description: 'Nashville Night Out info here! Nashville Night Out info here'
+        description: 'Nashville Night Out info here! Nashville Night Out info here',
         image: "https://images.unsplash.com/photo-1474440692490-2e83ae13ba29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
     },
     {
