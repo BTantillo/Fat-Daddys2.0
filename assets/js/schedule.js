@@ -30,13 +30,13 @@ if (window.location.href.indexOf("schedule") > -1) {
     {
         title: 'Taco Tuesday',
         start: new Date(y, m+1, 20),
-        description: `Taco Tuesday Info Goes Here! More Taco Tuesday Info here!`,
+        description: `Join us every Tuesday for Morgantown’s Best Tacos! With a wide variety on our taco menus, there is a taco for everyone. And what pairs well with tacos? Margaritas and Coronas that’s what! Drink specials on tequila shots, drinks, Coronas and more!`,
         image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
     },
     {
         title: 'Nashville Night Out',
         start: new Date(y, m+1, 20),
-        description: 'Nashville Night Out info here! Nashville Night Out info here',
+        description: 'Let us show you how the West (Virginia) was won! Come out every Thursday for drink specials that would make any cowboy ride day and night for. Come down to this honky tonk and dance to the best country songs of the past and present. If you ain’t got no giddy up, then giddy out my way! ',
         image: "https://images.unsplash.com/photo-1474440692490-2e83ae13ba29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
     },
     {
